@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-        AWS_ACCESS_KEY_ID     = credentials('3ebc41ed-1330-4949-a0dc-c43f36d0bbfe')
+        AWS_ACCESS_KEY_ID  = credentials('3ebc41ed-1330-4949-a0dc-c43f36d0bbfe')
         AWS_SECRET_ACCESS_KEY = credentials('3ebc41ed-1330-4949-a0dc-c43f36d0bbfe')
     }
     
